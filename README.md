@@ -12,8 +12,8 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 <a href="https://linkedin.com/in/adityathelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathelu" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_thelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_thelu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditya_thelu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_thelu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aditya_thelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aditya_thelu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adityathelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityathelu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aditya_thelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aditya_thelu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adityathelu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityathelu" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Stats:
