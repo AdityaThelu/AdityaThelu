@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 # 💫 About Me:
-I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm currently working on: [AI Chat for University Website](https://github.com/AdityaThelu/AI-University-Chatbot).**<br>🌱 I’m currently learning **Cloud, AI/ML, Bussines Analytics.**<br>👨‍💻 All of my projects are available [here](https://github.com/AdityaThelu).<br>📫 How to reach me official.thelu@gmail.com<br>
+I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm currently working on: [AI Chat for University Website](https://github.com/AdityaThelu/AI-University-Chatbot).<br>🌱 I’m currently learning **Cloud, AI/ML, Bussines Analytics.**<br>👨‍💻 All of my projects are available [here](https://github.com/AdityaThelu).<br>📫 How to reach me official.thelu@gmail.com<br>
 
 [![](https://visitcount.itsvg.in/api?id=AdityaThelu&icon=0&color=12)](https://visitcount.itsvg.in)
 
