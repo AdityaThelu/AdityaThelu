@@ -23,7 +23,7 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThelu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThelu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="250">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true&layout=compact">
 </p>
 
