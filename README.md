@@ -28,4 +28,3 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 </p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaThelu&theme=minimal&bg_color=00000&hide_border=true" width="100%"/>
-
