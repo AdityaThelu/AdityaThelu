@@ -18,12 +18,12 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaThelu&show_icons=true&theme=transparent&hide_border=true" width="500">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaThelu&theme=transparent&hide_border=true" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaThelu&show_icons=true&theme=transparent&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaThelu&theme=transparent&hide_border=true" width="400">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThelu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThelu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="300">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true&layout=compact">
 </p>
 
