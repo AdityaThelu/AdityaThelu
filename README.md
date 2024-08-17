@@ -23,3 +23,7 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaThelu&theme=transparent&bg_color=00000&hide_border=true" width="100%"/>
+
