@@ -28,5 +28,6 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 </p>
 
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+  
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true&layout=compact" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true" width="100%">
