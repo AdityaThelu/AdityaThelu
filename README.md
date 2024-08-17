@@ -23,7 +23,8 @@ I, Thelu Mohan P Aditya, am a results-oriented dedicated Job seeker.<br>🔭 I'm
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThelu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThelu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350">
+  <a href="https://github.com/AdityaThelu/ai-university-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaThelu&amp;repo=ai-university-chatbot&theme=transparent&hide_border=true" width="450"" alt="Readme Card"></a>
 </p>
 
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
